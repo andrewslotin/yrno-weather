@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/andrewslotin/yrno-weather.png)](https://travis-ci.org/andrewslotin/yrno-weather)
+
 # Yrno::Weather
 
 TODO: Write a gem description
