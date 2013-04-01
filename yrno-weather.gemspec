@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Yrno::Weather::VERSION
   spec.authors       = ["Andrew Slotin"]
   spec.email         = ["andrew.slotin@gmail.com"]
-  spec.description   = %Q{The #{spec.name} rubygem provides a Ruby object-oriented interface to the yr.no weather service}
+  spec.description   = %Q{The yrno-weather rubygem provides a Ruby object-oriented interface to the yr.no weather service}
   spec.summary       = %q{Ruby interface to yr.no weather service}
   spec.homepage      = ""
   spec.license       = "MIT"
